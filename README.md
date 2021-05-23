@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|池田圭吾 (Keigo Ikeda)|
-|Ag|27|
+|Age|27|
 |Twitter|[@K5_silverskg](https://twitter.com/K5_silverskg)|
 
 ## スキル
